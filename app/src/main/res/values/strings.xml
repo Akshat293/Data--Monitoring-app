@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Surveillance 24x7</string>
+    <string name="temperature">Temperature</string>
+    <string name="gas_reading">Gas Reading</string>
+    <string name="About">Surveying Data :\n Temperature/Humidity ,Gas Suspicion and  Obstacle detection.\n
+Abstract:\n
+Surveillance bot are basically used for security purposes which can work 24X7 and Provide Real World time Information without any delay so any Unusual change can be monitored .\n
+Justification :\n
+1.In a situation where you want to monitor changes in restricted areas where no one is allowed to go .The bot is programmed to move in a particular trigictor and detect any obstacle in the trigictor which can directly survey a sudden change due to unwanted obstacles in the trajectory.This bot can be handled manually by camera and bluetooth module embedded in it .\n
+2. Change in Temperature may be due to a fire ignition to violate any security measures.\n
+3.Gas sensor to detect sudden change in atmosphere due gas.May be to violate and Disturb the security measures.\n
+Connectivity:\n
+The whole Data is monitored in a private web server created by a personal IP of wifi. To monitor the data through a well defined graph.
+</string>
+</resources>
